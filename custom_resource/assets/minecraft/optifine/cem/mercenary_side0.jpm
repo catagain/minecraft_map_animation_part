@@ -1,5 +1,5 @@
 {
-	"texture": "textures/entity/mercenarysidei",
+	"texture": "mercenary",
 	"textureSize": [512, 512],
 	"credit": "Made with Blockbench",
 	"submodels": [
