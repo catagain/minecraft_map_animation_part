@@ -157,61 +157,31 @@
       "model": "mercenary_attack1.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
+      "translate": [0, 23, 0]
     },
     {
       "model": "mercenary_attack2.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
+      "translate": [0, 23, 0]
     },
     {
       "model": "mercenary_attack3.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
+      "translate": [0, 23, 0]
     },
     {
       "model": "mercenary_attack4.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
+      "translate": [0, 23, 0]
     },
     {
       "model": "mercenary_attack5.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
+      "translate": [0, 23, 0]
     }
   ]
 }
