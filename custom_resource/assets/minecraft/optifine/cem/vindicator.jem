@@ -278,6 +278,174 @@
           "this.ry": "head.ry"
         }
       ]
+    },
+    {
+      "model": "mercenary_dfc0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_dfc7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_cancel0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_cancel1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_cancel2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_cancel3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_cancel4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "mercenary_cancel5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     }
   ]
 }
