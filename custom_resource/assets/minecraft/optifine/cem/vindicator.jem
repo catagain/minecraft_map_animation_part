@@ -187,49 +187,97 @@
       "model": "mercenary_side0.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side1.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side2.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side3.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side4.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side5.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side6.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     },
     {
       "model": "mercenary_side7.jpm",
       "part": "body", 
       "attach": true,
-      "translate": [0, 23, 0]
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     }
   ]
 }
