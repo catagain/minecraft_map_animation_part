@@ -584,6 +584,126 @@
           "this.ry": "head.ry"
         }
       ]
+    },
+    {
+      "model": "stirnava_thirdatk1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     }
   ]
 }
