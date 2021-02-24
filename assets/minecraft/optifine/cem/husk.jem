@@ -704,6 +704,18 @@
           "this.ry": "head.ry"
         }
       ]
+    },
+    {
+      "model": "stirnava_thirdatk11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     }
   ]
 }
