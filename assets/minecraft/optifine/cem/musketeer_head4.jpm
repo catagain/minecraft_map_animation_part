@@ -1,0 +1,22 @@
+{
+	"texture": "textures/entity/musketeerwalkv",
+	"textureSize": [128, 128],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "head",
+			"rotate": [5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5.98325, -46.32129, -3.03314, 12, 12, 12],
+					"uvNorth": [12, 12, 24, 24],
+					"uvEast": [0, 12, 12, 24],
+					"uvSouth": [36, 12, 48, 24],
+					"uvWest": [24, 12, 36, 24],
+					"uvUp": [24, 12, 12, 0],
+					"uvDown": [36, 0, 24, 12]
+				}
+			]
+		}
+	]
+}

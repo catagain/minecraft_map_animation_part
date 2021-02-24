@@ -1,0 +1,181 @@
+{
+  "textureSize": [64,64],
+  "texture": "empty",
+  "models":
+  [
+    {
+      "model": "musketeer_walk0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_walk7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 21, 0]
+    },
+    {
+      "model": "musketeer_idle0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "musketeer_shoot0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_shoot1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_shoot2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_shoot3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_shoot4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_shoot5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_shoot6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "musketeer_cancel0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "musketeer_cancel1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "musketeer_cancel2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "musketeer_cancel3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "musketeer_cancel4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "musketeer_cancel5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "sword",
+		"particle": "sword"
+	},
+	"elements": [
+		{
+			"name": "blade",
+			"from": [7.71003, 4.05073, 7.9145],
+			"to": [7.71003, 31.05073, 10.9145],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71003, 6, 9.41997]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#missing"},
+				"east": {"uv": [0, 14.5, 2.25, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"},
+				"west": {"uv": [0, 0, 2.25, 14.5], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "blade1",
+			"from": [7.46003, 8.59482, 9.1593],
+			"to": [7.96003, 13.59482, 9.6593],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71003, 6, 9.41997]},
+			"faces": {
+				"north": {"uv": [4.125, 1.375, 9.125, 1.875], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [2.375, 5, 2.875, 0], "texture": "#0"},
+				"south": {"uv": [4.125, 1.375, 9.125, 1.875], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [2.375, 0, 2.875, 5], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [5.375, 0.625, 5.875, 1.125], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [7.46003, -5.40518, 8.9261],
+			"to": [7.96003, 8.59482, 9.9261],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71003, 6, 9.41997]},
+			"faces": {
+				"north": {"uv": [4, 0, 16, 0.5], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [3, 14, 4, 0], "texture": "#0"},
+				"south": {"uv": [16, 0, 4.125, 0.5], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [3, 0, 4, 14], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [9.125, 1.375, 10.125, 1.875], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4.25, 0.625, 5.25, 1.125], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle1",
+			"from": [7.21003, 3.59482, 5.4593],
+			"to": [8.21003, 4.59482, 13.4593],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71003, 6, 9.41997]},
+			"faces": {
+				"north": {"uv": [4.375, 8.375, 5.375, 9.375], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [12.375, 4.125, 4.375, 5.125], "texture": "#0"},
+				"south": {"uv": [4.375, 8.375, 5.375, 9.375], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [4.375, 4.125, 12.375, 5.125], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [4.375, 5.5, 12.375, 6.5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4.375, 6.875, 12.375, 7.875], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [6.96003, -4.58518, 8.64068],
+			"to": [8.46003, -4.08518, 10.14068],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71003, 6, 9.41997]},
+			"faces": {
+				"north": {"uv": [4.375, 2.25, 4.875, 3.75], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [6.125, 0.625, 7.625, 1.125], "texture": "#0"},
+				"south": {"uv": [4.375, 2.25, 4.875, 3.75], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [6.125, 0.625, 7.625, 1.125], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [5.125, 2.25, 6.625, 3.75], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [5.125, 2.25, 6.625, 3.75], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 6.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 6, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-92, 29, 45],
+			"translation": [-15, 9, -3]
+		},
+		"ground": {
+			"translation": [0, 12, -1]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [1.25, -2.5, 0],
+			"scale": [1, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [90, -135, 90],
+			"translation": [-1.5, -3, -0.5],
+			"scale": [0.5, 0.7, 0.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "iron_sword",
+			"origin": [5.6426, 0, 5.32208],
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

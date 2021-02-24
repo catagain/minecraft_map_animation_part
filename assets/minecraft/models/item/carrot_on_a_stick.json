@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 0 }, "model": "item/gui_false" },
+		{ "predicate": { "damaged": 0, "damage": 0.04 }, "model": "item/gui_tutorial_0_1" },
+		{ "predicate": { "damaged": 0, "damage": 0.08 }, "model": "item/gui_tutorial_0_2" },
+		{ "predicate": { "damaged": 0, "damage": 0.12 }, "model": "item/gui_tutorial_0_3" },
+		{ "predicate": { "damaged": 0, "damage": 0.16 }, "model": "item/gui_tutorial_1_1" },
+		{ "predicate": { "damaged": 0, "damage": 0.20 }, "model": "item/gui_tutorial_1_2" },
+		{ "predicate": { "damaged": 0, "damage": 0.24 }, "model": "item/gui_tutorial_1_3" },
+		{ "predicate": { "damaged": 0, "damage": 0.28 }, "model": "item/gui_tutorial_2_1" },
+		{ "predicate": { "damaged": 0, "damage": 0.32 }, "model": "item/gui_tutorial_2_2" },
+		{ "predicate": { "damaged": 0, "damage": 0.36 }, "model": "item/gui_tutorial_2_3" },
+		{ "predicate": { "damaged": 0, "damage": 0.40 }, "model": "item/gui_tutorial_3_1" },
+		{ "predicate": { "damaged": 0, "damage": 0.44 }, "model": "item/gui_tutorial_3_2" },
+		{ "predicate": { "damaged": 0, "damage": 0.48 }, "model": "item/gui_tutorial_3_3" },
+		{ "predicate": { "damaged": 0, "damage": 0.52 }, "model": "item/gui_tutorial_4_1" },
+		{ "predicate": { "damaged": 0, "damage": 0.56 }, "model": "item/gui_tutorial_4_2" },
+		{ "predicate": { "damaged": 0, "damage": 0.60 }, "model": "item/gui_tutorial_4_3" },
+		{ "predicate": { "damaged": 0, "damage": 0.64 }, "model": "item/gui_tutorial_5_1" },
+		{ "predicate": { "damaged": 0, "damage": 0.68 }, "model": "item/gui_tutorial_5_2" },
+		{ "predicate": { "damaged": 0, "damage": 0.72 }, "model": "item/gui_tutorial_5_3" }
+	]
+}
