@@ -716,6 +716,150 @@
           "this.ry": "head.ry"
         }
       ]
+    },
+    {
+      "model": "stirnava_skill.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill12.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
     }
   ]
 }

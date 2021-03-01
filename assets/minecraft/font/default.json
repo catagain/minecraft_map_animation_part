@@ -1,6 +1,14 @@
 {
    "providers": [
       {
+         "type": "ttf",
+         "file": "NotoSerifCJKtc-SemiBold.otf",
+         "shift": [0, 0.5],
+         "size": 10.0,
+         "oversample": 4.0,
+         "skip": ""
+      },
+      {
          "type": "bitmap",
          "file": "minecraft:font/dead.png",
          "ascent": 16,
