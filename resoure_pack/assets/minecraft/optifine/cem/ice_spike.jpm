@@ -1,0 +1,67 @@
+{
+	"texture": "ice_spike",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [0, 45, 0],
+			"boxes": [
+				{
+					"coordinates": [-9, -29, 0, 18, 30, 0],
+					"uvNorth": [0, 0, 18, 30],
+					"uvEast": [0, 0, 0, 30],
+					"uvSouth": [18, 0, 36, 30],
+					"uvWest": [18, 0, 18, 30],
+					"uvUp": [18, 0, 0, 0],
+					"uvDown": [36, 0, 18, 0]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [0, -45, 0],
+			"boxes": [
+				{
+					"coordinates": [-9, -29, 0, 18, 30, 0],
+					"uvNorth": [0, 0, 18, 30],
+					"uvEast": [0, 0, 0, 30],
+					"uvSouth": [18, 0, 36, 30],
+					"uvWest": [18, 0, 18, 30],
+					"uvUp": [18, 0, 0, 0],
+					"uvDown": [36, 0, 18, 0]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [0, -72.5, 0],
+			"boxes": [
+				{
+					"coordinates": [-10, -18, 0, 20, 19, 0],
+					"uvNorth": [0, 0, 18, 30],
+					"uvEast": [0, 0, 0, 30],
+					"uvSouth": [18, 0, 36, 30],
+					"uvWest": [18, 0, 18, 30],
+					"uvUp": [18, 0, 0, 0],
+					"uvDown": [36, 0, 18, 0]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [0, 177.5, 0],
+			"boxes": [
+				{
+					"coordinates": [-10, -31, 0, 20, 32, 0],
+					"uvNorth": [0, 0, 18, 30],
+					"uvEast": [0, 0, 0, 30],
+					"uvSouth": [18, 0, 36, 30],
+					"uvWest": [18, 0, 18, 30],
+					"uvUp": [18, 0, 0, 0],
+					"uvDown": [36, 0, 18, 0]
+				}
+			]
+		}
+	]
+}

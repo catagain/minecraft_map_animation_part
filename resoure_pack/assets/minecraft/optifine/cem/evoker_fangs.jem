@@ -1,0 +1,31 @@
+{
+  "textureSize": [64,64],
+  "texture": "empty",
+  "models":
+  [
+    {
+      "model": "ice_spike.jpm",
+      "part": "base", 
+      "attach": false,
+      "translate": [5, 5, 0],
+      "animations":
+      [
+        {
+          "this.ry": "0.1*sin(time/20)"
+        }
+      ]
+    },
+    {
+      "model": "",
+      "part": "upper_jaw", 
+      "attach": false,
+      "translate": [0, 0, 0]
+    },
+    {
+      "model": "",
+      "part": "lower_jaw", 
+      "attach": false,
+      "translate": [0, 0, 0]
+    }
+  ]
+}
