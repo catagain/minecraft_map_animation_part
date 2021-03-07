@@ -1,0 +1,583 @@
+{
+  "textureSize": [64,64],
+  "texture": "empty",
+  "models":
+  [
+    {
+      "model": "silluvia_idle.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_atk_upper.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_block_0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_block_1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_block_2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_block_3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_block_upper.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_cast0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_cast1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_cast2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_cast3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_cast_upper.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_12.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_13.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_14.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_15.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_16.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_17.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_18.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_19.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_sp_down.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk0.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walk7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "silluvia_walkupper.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    }
+  ]
+}
