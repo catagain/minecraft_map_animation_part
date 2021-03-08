@@ -16,18 +16,6 @@
       ]
     },
     {
-      "model": "mercenary_head1.jpm",
-      "part": "body", 
-      "attach": true,
-      "translate": [0, 21, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
-    },
-    {
       "model": "mercenary_walk0.jpm",
       "part": "body", 
       "attach": true,
