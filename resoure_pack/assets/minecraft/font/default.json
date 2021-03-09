@@ -165,30 +165,51 @@
       {
          "type": "bitmap",
          "file": "minecraft:guis/damage/damage0.png",
-         "ascent": 80,
-         "height": 170,
+         "ascent": 63,
+         "height": 130,
          "chars": ["\uE023"]
       },
       {
          "type": "bitmap",
          "file": "minecraft:guis/damage/damage1.png",
-         "ascent": 80,
-         "height": 170,
+         "ascent": 63,
+         "height": 130,
          "chars": ["\uE024"]
       },
       {
          "type": "bitmap",
          "file": "minecraft:guis/damage/damage2.png",
-         "ascent": 80,
-         "height": 170,
+         "ascent": 63,
+         "height": 130,
          "chars": ["\uE025"]
       },
       {
          "type": "bitmap",
          "file": "minecraft:guis/damage/damage3.png",
-         "ascent": 80,
-         "height": 170,
+         "ascent": 63,
+         "height": 130,
          "chars": ["\uE026"]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:guis/movie/movie0.png",
+         "ascent": 63,
+         "height": 130,
+         "chars": ["\uE027"]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:guis/movie/movie1.png",
+         "ascent": 63,
+         "height": 130,
+         "chars": ["\uE028"]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:guis/movie/movie2.png",
+         "ascent": 63,
+         "height": 130,
+         "chars": ["\uE029"]
       }
    ]
 }
