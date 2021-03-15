@@ -2,7 +2,7 @@
     "door_open":{
         "category": "music",
         "sounds":[{
-            "name": "sounds/door_open",
+            "name": "door_open/001",
             "stream": true
         }]
     }
