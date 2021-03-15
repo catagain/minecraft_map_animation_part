@@ -1,0 +1,9 @@
+{
+    "door_open":{
+        "category": "music",
+        "sounds":[{
+            "name": "sounds/door_open",
+            "stream": true
+        }]
+    }
+}
