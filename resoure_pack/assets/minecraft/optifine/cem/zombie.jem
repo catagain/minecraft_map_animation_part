@@ -460,19 +460,7 @@
       ]
     },
     {
-      "model": "silluvia_sp_20.jpm",
-      "part": "body", 
-      "attach": true,
-      "translate": [0, 24, 0],
-      "animations":
-      [
-        {
-          "this.ry": "head.ry"
-        }
-      ]
-    },
-    {
-      "model": "silluvia_sp_21.jpm",
+      "model": "silluvia_sp_down.jpm",
       "part": "body", 
       "attach": true,
       "translate": [0, 24, 0],
