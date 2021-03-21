@@ -1,0 +1,865 @@
+{
+  "textureSize": [64,64],
+  "texture": "empty",
+  "models":
+  [
+    {
+      "model": "stirnava_idle.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0]
+    },
+    {
+      "model": "stirnava_show.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_runup.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run01.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run02.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run03.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run04.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run05.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run06.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run07.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run08.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run09.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run12.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run13.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run14.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run15.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_run16.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk12.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk13.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk14.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_firstatk15.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_secatk.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_secatk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_secatk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sideup.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_sidewalk8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_blockup.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_block1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_block2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk1.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_thirdatk11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill2.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill3.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill4.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill5.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    },
+    {
+      "model": "stirnava_skill12.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 24, 0],
+      "animations":
+      [
+        {
+          "this.ry": "head.ry"
+        }
+      ]
+    }
+  ]
+}
