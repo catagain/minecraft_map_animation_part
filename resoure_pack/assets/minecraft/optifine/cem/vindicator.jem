@@ -100,7 +100,61 @@
       "translate": [0, 23, 0]
     },
     {
+      "model": "mercenary_attack6.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack7.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack8.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack9.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack10.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
       "model": "mercenary_attack11.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack12.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack13.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack14.jpm",
+      "part": "body", 
+      "attach": true,
+      "translate": [0, 23, 0]
+    },
+    {
+      "model": "mercenary_attack15.jpm",
       "part": "body", 
       "attach": true,
       "translate": [0, 23, 0]
