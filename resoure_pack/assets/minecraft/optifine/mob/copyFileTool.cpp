@@ -53,22 +53,26 @@ string intToRoman(int num) {
 int main(){
 	string readFileName,tmpFileName;
 	
-	cout<<"ï¿½ï¿½Jï¿½Ë¥ï¿½ï¿½É®×¦Wï¿½ï¿½: ";
+	cout<<"¿é¤J»Ý­n½Æ»sªºÀÉ®×ªºÀÉ®×¦WºÙ: ";
 	cin>>readFileName;
 	 
-	cout<<"ï¿½ï¿½Jï¿½ï¿½ï¿½ï¿½Xï¿½É®×¦@ï¿½Pï¿½Wï¿½ï¿½: ";
+	cout<<"¿é¤J±ý²£¥ÍªºÀÉ®×ªº«eºó¦WºÙ: ";
 	cin>>tmpFileName;
 	 
-	int e;
-	cout<<"ï¿½ï¿½Jï¿½ï¿½ï¿½ï¿½ï¿½Íªï¿½ï¿½sï¿½ï¿½(ï¿½q0~?): ";
-	cin>>e;
+	int f,e;
+	cout<<"»Ý­n¿é¥X¦h¤Ö­ÓÀÉ®×(?~?): ";
+	cin>>f>>e;
 	
-	for(int i=0;i<=e;i++){
+	string s;
+	cout<<"«áºó¦r²Å(¶·¥]§tÀÉ¦W): ";
+	cin>>s;
+	
+	for(int i=f;i<=e;i++){
 		string writeFileName;
 		
 		writeFileName=tmpFileName;
 		writeFileName+=intToRoman(i);
-		writeFileName+="2.png";
+		writeFileName+=s;
 		cout<<writeFileName<<endl;
 		ifstream in(readFileName.c_str(),ios::binary);
 		ofstream out(writeFileName.c_str(),ios::binary);
